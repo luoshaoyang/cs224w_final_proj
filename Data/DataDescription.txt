@@ -1,0 +1,1 @@
+Images of license plates from Kaggle: https://www.kaggle.com/datasets/tolgadincer/us-license-plates/code?select=test.csv
